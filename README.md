@@ -9,7 +9,7 @@ This repository documents my progress on the Dear Data assignment for Creative C
 - Created the project folder and outlined the aims of the assignment.
 - Created Dear data data collection csv.
 - Created 100 columns for each data item, and rows including sound, location, loudness(1-10), and type.
-- Collected 58 data items
+- Collected 57 data items
 
 ## Tools
 - Processing
