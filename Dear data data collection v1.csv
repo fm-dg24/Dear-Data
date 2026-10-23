@@ -1,0 +1,101 @@
+Item number,Sound,Location,Loudness (1-10),Type
+1,Truck,Outdoor,3,Vehicle
+2,Plane,Outdoor,7,Vehicle
+3,Wind,Outdoor,2,Nature
+4,Neighbours Door ,Outdoor,4,Household
+5,Car,Outdoor,4,Vehicle
+6,Motorbike engine,Outdoor,6,Vehicle
+7,Birds,Outdoor,5,Nature
+8,Car,Outdoor,4,Vehicle
+9,Plane,Outdoor,6,Vehicle
+10,high heels,Indoor,6,Human
+11,People talking,Indoor,8,Human
+12,Car horn,Outdoor,9,Vehicle
+13,Car,Outdoor,6,Vehicle
+14,Pen clicking,Indoor,3,Human
+15,Talking,Indoor,7,Human
+16,Train,Indoor,10,Vehicle
+17,Fire alarm ,Indoor,10,Vehicle
+18,Bicycle bell,Outdoor ,8,Vehicle
+19,Train,Indoor,10,Vehicle
+20,Talking,Indoor,6,Human
+21,Clock bell,Outdoor,9,Object
+22,Speaker ,Indoor,8,Object
+23,Bag zips,Indoor,6,Object
+24,Keyboards,Indoor,4,Object
+25,Birds,Outdoor,3,Nature
+26,Walking,Indoor,5,Human 
+27,Car,Outdoor,7,Vehicle
+28,Alarm,Indoor,6,Object
+29,Car,Outdoor,7,Vehicle
+30,Bus,Outdoor,9,Vehicle
+31,Lorry ,Outdoor,10,Vehicle
+32,Rain,Outdoor,2,Nature
+33,Phone noti,Indoor,4,Object
+34,Car ,Outdoor,6,Vehicle 
+35,Water bottle,Indoor,4,Object
+36,Talking,Indoor,6,Human
+37,Whistling,Indoor,5,Human 
+38,Phone noti,Indoor,6,Object
+39,Can opening,Indoor,6,Object
+40,Chair creaking ,Indoor,5,Object
+41,Bag zips,Indoor,4,Object
+42,Dryer,Indoor,6,Object
+43,Talking,Indoor,6,Object
+44,Walking,Indoor,2,Human
+45,Wind,Outdoor,6,Nature
+46,Rain,Outdoor,4,Nature
+47,Car,Outdoor,2,Vehicle
+48,Keyboards,Indoor,7,Object
+49,Car ,Outdoor,2,Vehicle
+50,Speaker ,Indoor,8,Object
+51,Wind,Outdoor,5,Nature
+52,Birds,Outdoor,6,Nature
+53,Fox,Outdoor,7,Nature
+54,Air fryer,Indoor,7,Object
+55,Alarm,Indoor,4,Object
+56,Fan heater,Indoor,9,Object
+57,Car,Outdoor,4,Vehicle
+58,,,,
+59,,,,
+60,,,,
+61,,,,
+62,,,,
+63,,,,
+64,,,,
+65,,,,
+66,,,,
+67,,,,
+68,,,,
+69,,,,
+70,,,,
+71,,,,
+72,,,,
+73,,,,
+74,,,,
+75,,,,
+76,,,,
+77,,,,
+78,,,,
+79,,,,
+80,,,,
+81,,,,
+82,,,,
+83,,,,
+84,,,,
+85,,,,
+86,,,,
+87,,,,
+88,,,,
+89,,,,
+90,,,,
+91,,,,
+92,,,,
+93,,,,
+94,,,,
+95,,,,
+96,,,,
+97,,,,
+98,,,,
+99,,,,
+100,,,,
