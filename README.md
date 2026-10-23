@@ -1,10 +1,10 @@
 # Dear-Data
 This repository documents my progress on the Dear Data assignment for Creative Coding.
 ## Project goals:
-Explore personal data through observation and collection.
-Develop ideas for representing data visually.
-Experiment with creative coding in Processing.
-Document my progress throughout the project.
+-Explore personal data through observation and collection.
+-Develop ideas for representing data visually.
+-Experiment with creative coding in Processing.
+-Document my progress throughout the project.
 ## Progress log:
 -Created the project folder and outlined the aims of the assignment.
 -Created Dear data data collection csv.
