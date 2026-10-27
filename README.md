@@ -11,6 +11,7 @@ This repository documents my progress on the Dear Data assignment for Creative C
 - Created 100 columns for each data item, and rows including sound, location, loudness(1-10), and type.
 - Collected 57 data items
 - Added the completed version of the sound data collection with all 100 data  items.
+- Began designing and planning how data can be represented
 
 ## Tools
 - Processing
