@@ -12,6 +12,8 @@ This repository documents my progress on the Dear Data assignment for Creative C
 - Collected 57 data items
 - Added the completed version of the sound data collection with all 100 data  items.
 - Began designing and planning how data can be represented
+- Created Sound data visualisation first draft (first darft of processing sketch).
+- While creating the processing sketch, created a log of what the purpose of each part of the code is.
 
 ## Design plan:
 ### Initial design
@@ -19,6 +21,9 @@ Represent the sound using 100 fixed spaced out shapes, have each sound represent
 
 ### 2nd design
 Have all 100 sounds represented as lines forming the shape of a sound wave. Have each portion of the wave be a line where each line represents 1 data item. The sound will continuously loop from left to right to create a visual of the sound wave moving. There will be buttons that the viewer can press that will change the lines on the waves colour based on their category, either sound type or location.
+
+### First draft design choice
+For the first draft I decided to go with the lines forming the shape of a sound wave, however right now there is no feature to change the colour based on sound type or location, and the wave does not move.
 
 ## Tools
 - Processing
